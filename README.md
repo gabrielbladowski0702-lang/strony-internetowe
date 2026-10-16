@@ -1,2 +1,0 @@
-# strony-internetowe
-repozytorium zajęć
